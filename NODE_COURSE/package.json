@@ -1,0 +1,19 @@
+{
+  "name": "notes.app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "init": "^0.1.2",
+    "postman-request": "^2.88.1-postman.40",
+    "request": "^2.88.0",
+    "validator": "^13.12.0",
+    "yargs": "^17.7.2"
+  }
+}
